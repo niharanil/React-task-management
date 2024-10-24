@@ -22,6 +22,7 @@ Navigate to your project folder and install the necessary dependencies using npm
 
 
 npm install
+
 This command will read the package.json file and install all required packages.
 
 Step 3: Start the Development Server
@@ -29,6 +30,7 @@ Once the dependencies are installed, you can start the development server with:
 
 
 npm start
+
 This command will launch the application in your default web browser. The application should be running at http://localhost:3000.
 
 Step 4: Interacting with the Application
