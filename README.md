@@ -14,22 +14,20 @@ Node.js: This application requires Node.js to run. You can download it from node
 npm: npm (Node Package Manager) comes bundled with Node.js. You can verify if it’s installed by running npm -v in your terminal.
 Step 1: Clone the Repository
 If you have a repository containing the code, clone it to your local machine using:
-git clone https://github.com/yourusername/task-manager.git
+git clone git@github.com:niharanil/React-task-management.git
 
 
 Step 2: Install Dependencies
 Navigate to your project folder and install the necessary dependencies using npm:
 
-bash
-Copy code
+
 npm install
 This command will read the package.json file and install all required packages.
 
 Step 3: Start the Development Server
 Once the dependencies are installed, you can start the development server with:
 
-bash
-Copy code
+
 npm start
 This command will launch the application in your default web browser. The application should be running at http://localhost:3000.
 
